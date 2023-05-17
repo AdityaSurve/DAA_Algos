@@ -11,6 +11,7 @@
     "MST(Kruskals).C": "cpp",
     "Dijkstras.C": "cpp",
     "JobScheduling.C": "cpp",
-    "ContainerLoadingProblem.C": "cpp"
+    "ContainerLoadingProblem.C": "cpp",
+    "CoinChanging(DP).C": "cpp"
   }
 }
