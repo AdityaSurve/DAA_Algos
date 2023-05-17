@@ -8,6 +8,7 @@
     "FractionalKnapsack.C": "cpp",
     "SubsetCoverProblem.C": "cpp",
     "CoinChangeProblem.C": "cpp",
-    "MST(Kruskals).C": "cpp"
+    "MST(Kruskals).C": "cpp",
+    "Dijkstras.C": "cpp"
   }
 }
