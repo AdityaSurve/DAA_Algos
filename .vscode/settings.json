@@ -12,6 +12,7 @@
     "Dijkstras.C": "cpp",
     "JobScheduling.C": "cpp",
     "ContainerLoadingProblem.C": "cpp",
-    "CoinChanging(DP).C": "cpp"
+    "CoinChanging(DP).C": "cpp",
+    "TravellingSalesPerson(DP).C": "cpp"
   }
 }
