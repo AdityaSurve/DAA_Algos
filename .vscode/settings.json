@@ -2,6 +2,7 @@
   "files.associations": {
     "MinMax.C": "cpp",
     "MergeSort.C": "cpp",
-    "QuickSort.C": "cpp"
+    "QuickSort.C": "cpp",
+    "LongIntegerMultiplication.C": "cpp"
   }
 }
