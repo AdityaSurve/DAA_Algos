@@ -13,6 +13,7 @@
     "JobScheduling.C": "cpp",
     "ContainerLoadingProblem.C": "cpp",
     "CoinChanging(DP).C": "cpp",
-    "TravellingSalesPerson(DP).C": "cpp"
+    "TravellingSalesPerson(DP).C": "cpp",
+    "1KnapsackProblem.C": "cpp"
   }
 }
