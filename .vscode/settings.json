@@ -10,6 +10,7 @@
     "CoinChangeProblem.C": "cpp",
     "MST(Kruskals).C": "cpp",
     "Dijkstras.C": "cpp",
-    "JobScheduling.C": "cpp"
+    "JobScheduling.C": "cpp",
+    "ContainerLoadingProblem.C": "cpp"
   }
 }
