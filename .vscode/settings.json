@@ -22,6 +22,7 @@
     "KnapsackProblem(BackTrack).C": "cpp",
     "0-1KnapsackProblem(BranchBound).C": "cpp",
     "JobSequencing(BranchBound).C": "cpp",
-    "TravellingSalesPerson(BranchBound).C": "cpp"
+    "TravellingSalesPerson(BranchBound).C": "cpp",
+    "MST(Prims).C": "cpp"
   }
 }
