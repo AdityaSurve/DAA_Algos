@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "MinMax.C": "cpp"
+    "MinMax.C": "cpp",
+    "MergeSort.C": "cpp"
   }
 }
