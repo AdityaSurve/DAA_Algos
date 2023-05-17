@@ -6,6 +6,7 @@
     "LongIntegerMultiplication.C": "cpp",
     "OptimalStorageOfTapes.C": "cpp",
     "FractionalKnapsack.C": "cpp",
-    "SubsetCoverProblem.C": "cpp"
+    "SubsetCoverProblem.C": "cpp",
+    "CoinChangeProblem.C": "cpp"
   }
 }
