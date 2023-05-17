@@ -5,6 +5,7 @@
     "QuickSort.C": "cpp",
     "LongIntegerMultiplication.C": "cpp",
     "OptimalStorageOfTapes.C": "cpp",
-    "FractionalKnapsack.C": "cpp"
+    "FractionalKnapsack.C": "cpp",
+    "SubsetCoverProblem.C": "cpp"
   }
 }
