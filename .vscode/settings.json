@@ -18,6 +18,7 @@
     "0-1KnapsackProblem.C": "cpp",
     "NQueens(BackTrack).C": "cpp",
     "SumOfSubsets(BackTrack).C": "cpp",
-    "GraphColoringProblem(BackTrack).C": "cpp"
+    "GraphColoringProblem(BackTrack).C": "cpp",
+    "KnapsackProblem(BackTrack).C": "cpp"
   }
 }
